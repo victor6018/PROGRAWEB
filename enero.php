@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
  <head>
-	   <title>Ejemplo calendario</title>
+	   <title>calendario01</title>
 	    <meta charset="utf-8">
  </head>
  <body>
